@@ -47,7 +47,7 @@ If you've got an improvement, just send in a pull request!
 If you've got feature ideas, simply [open a new issues](https://github.com/missingstudio/apsara/issues/new)!
 
 
-<a href="https://github.com/missingstudio/studio/graphs/contributors">
+<a href="https://github.com/missingstudio/ai/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=missingstudio/studio" />
 </a>
 
